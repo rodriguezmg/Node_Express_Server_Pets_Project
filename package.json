@@ -1,0 +1,27 @@
+{
+  "name": "pets",
+  "version": "1.0.0",
+  "description": "Backend para mis mascotas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edWAR6/Node.js-Express-Pets-Server.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express"
+  ],
+  "author": "Eduardo Oviedo Blanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edWAR6/Node.js-Express-Pets-Server/issues"
+  },
+  "homepage": "https://github.com/edWAR6/Node.js-Express-Pets-Server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
